@@ -2,6 +2,11 @@
 
 ### Data Analyst | Monitoring & Evaluation (M&E) Professional | Humanitarian Analytics Specialist
 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![M&E](https://img.shields.io/badge/M&E-Professional-orange)
+
 I am a Data Analyst specializing in transforming raw data into actionable insights that support evidence-based decision-making in humanitarian, development, and business environments.
 
 I build dashboards, automate reporting workflows, analyze indicators, and communicate insights clearly to stakeholders and decision-makers.
