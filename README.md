@@ -86,6 +86,7 @@ Monitors KPI performance and project delivery indicators.
 
 - Email: umarmusapress@gmail.com
 - GitHub: https://github.com/UmarMusaIsah
+- LinkedIn: https://www.linkedin.com/in/umar-musa-isah-997821408
 
 ---
 
