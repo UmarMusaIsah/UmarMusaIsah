@@ -52,10 +52,18 @@ I build dashboards, automate reporting workflows, analyze indicators, and commun
 
 ## Certifications
 
-- Certificate in Data Analytics (Excel, SQL, Power BI)
-- Monitoring & Evaluation Professional
-- CommCare Certified – Application Building (Dimagi)
-
+- Certificate in Data Analytics (Excel, SQL, Power BI)  
+- Monitoring & Evaluation Professional  
+- CommCare Certified — Application Building (Dimagi, Dec 2025)  
+- Managing Data with Microsoft 365 Certificate  
+- Report Writing Certificate  
+- Project Management Certificate  
+- Food Security and Livelihood Certificate  
+- GBV in Humanitarian Action Certificate  
+- Sanitarian Nutrition Operations Certificate  
+- Generative AI Certificate  
+- Responsible AI Certificate  
+- Soft Skills Training (FGN-ALAT)
 ---
 
 ## Featured Projects
