@@ -1,9 +1,19 @@
 ![Profile Banner](assets/profile-banner.png)
 
-# Hi, I'm Umar Musa Isah 👋
+<br>
 
-### Data Analyst | Monitoring & Evaluation (M&E) Specialist | Dashboard & Reporting Professional
+<p align="center">
+  <img src="assets/profile-photo.png" width="180" alt="Umar Musa Isah" style="border-radius:50%;" />
+</p>
 
+<h1 align="center">Hi, I'm Umar Musa Isah 👋</h1>
+
+<h3 align="center">
+Data Analyst | Monitoring & Evaluation (M&E) Specialist |
+Business Intelligence & Dashboard Professional
+</h3>
+
+<br>
 I am a Data Analyst with a strong interest in transforming raw data into actionable insights that support evidence-based decision-making.
 
 My work combines data analytics, monitoring and evaluation (M&E), dashboard development, SQL analysis, and reporting to help organizations understand performance, measure impact, and improve decision-making. I enjoy building complete analytics solutions—from data collection and preparation to visualization and presentation.
