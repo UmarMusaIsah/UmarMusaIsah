@@ -161,14 +161,7 @@ My professional development includes certifications in:
 # GitHub Statistics
 
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UmarMusaIsah&show_icons=true&theme=github&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarMusaIsah&layout=compact&theme=github&hide_border=true"/>
-
-</p>
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarMusaIsah&theme=github)
 ---
 
 # Professional Interests
