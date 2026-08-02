@@ -88,12 +88,6 @@ I am particularly interested in projects involving:
 
 # Featured Projects
 
-These projects demonstrate my practical experience in data analytics, monitoring & evaluation, dashboard development, and evidence-based reporting.
-
----
-
-# Featured Projects
-
 ## 📊 TVET Programme Impact Assessment
 
 **End-to-End Monitoring & Evaluation (M&E) Analytics Project**
@@ -173,10 +167,6 @@ Throughout my analytics journey, I have developed practical experience in design
 - Food Security
 - Business Reporting
 - Programme Performance
-
-# GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=UmarMusaIsah&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Professional Interests
 
