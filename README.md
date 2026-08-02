@@ -161,8 +161,8 @@ My professional development includes certifications in:
 # GitHub Statistics
 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarMusaIsah&theme=github)
----
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarMusaIsah&theme=github)
+
 
 # Professional Interests
 
