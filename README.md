@@ -92,61 +92,38 @@ These projects demonstrate my practical experience in data analytics, monitoring
 
 ---
 
-## TVET Programme Impact Assessment ⭐
+# Featured Projects
 
-An end-to-end Monitoring & Evaluation (M&E) capstone project evaluating the effectiveness of a Technical and Vocational Education and Training (TVET) programme.
+## 📊 TVET Programme Impact Assessment
 
-**Highlights**
+**End-to-End Monitoring & Evaluation (M&E) Analytics Project**
 
-- Digital data collection
-- Data cleaning & transformation
-- SQL Server analysis
-- Excel analytics
-- Interactive Power BI dashboard
-- Technical report
-- Executive presentation
+**Tools:** SQL Server • Power BI • Excel • Power Query • KoboToolbox • CommCare
 
-**Tools**
+Designed and implemented a complete programme evaluation workflow covering digital data collection, cleaning, SQL analysis, dashboard development, technical documentation, and executive reporting.
 
-Power BI • SQL Server • Excel • Power Query • KoboToolbox • CommCare • Google Forms
-
-🔗 Repository:
+🔗 Repository  
 https://github.com/UmarMusaIsah/TVET-Programme-Impact-Assessment
 
 ---
 
-## Herbal Remedies Field Survey & Data Analysis
+## 🌿 Herbal Remedies Field Survey & Data Analysis
 
-A complete field survey and analytics project designed to assess the use, perception, and effectiveness of herbal remedies through structured data collection and evidence-based analysis.
+**End-to-End Survey Analytics Project**
 
-**Highlights**
+**Tools:** Excel • SQL Server • Power BI • KoboToolbox • CommCare • Google Forms
 
-- Survey design
-- Field data collection
-- Data cleaning
-- SQL analysis
-- Excel reporting
-- Power BI dashboard
-- Technical documentation
-- Presentation
-
-**Tools**
-
-Excel • SQL Server • Power BI • KoboToolbox • CommCare • Google Forms
+Conducted a field survey to assess the use and perception of herbal remedies. The project included survey design, data collection, data cleaning, SQL analysis, dashboard creation, technical reporting, and presentation.
 
 ---
 
-## Humanitarian Analytics Portfolio Projects
+## 📈 Analytics Portfolio Projects
 
-I have also developed several portfolio projects inspired by monitoring, evaluation, and humanitarian reporting scenarios to strengthen my analytical, dashboard development, and business intelligence skills.
-
-Projects include:
+Portfolio Dashboard Projects inspired by real-world Monitoring & Evaluation and humanitarian reporting scenarios:
 
 - Education Monitoring Dashboard
 - Food Security Dashboard
 - Programme Performance Dashboard
-
-These projects demonstrate practical skills in KPI development, dashboard design, SQL analysis, and data visualization using realistic datasets.
 
 ---
 
@@ -168,11 +145,38 @@ My professional development includes certifications in:
 
 ---
 
-# GitHub Statistics
+# Professional Highlights
 
+Throughout my analytics journey, I have developed practical experience in designing complete data solutions that transform raw information into actionable insights.
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarMusaIsah&theme=github)
+### Areas of Expertise
 
+- 📊 End-to-End Data Analytics
+- 📈 Interactive Dashboard Development
+- 🗄 SQL Database Design & Querying
+- 🧹 Data Cleaning & Transformation
+- 📋 Monitoring & Evaluation (M&E)
+- 📑 Technical Reporting & Documentation
+- 📉 KPI Development & Performance Monitoring
+- 🌍 Survey Design & Digital Data Collection
+- 💼 Business Intelligence & Decision Support
+- 🚀 Git & GitHub Portfolio Management
+
+---
+
+### Industries & Domains
+
+- Monitoring & Evaluation (M&E)
+- Education
+- Public Health
+- Humanitarian & Development
+- Food Security
+- Business Reporting
+- Programme Performance
+
+# GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UmarMusaIsah&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Professional Interests
 
